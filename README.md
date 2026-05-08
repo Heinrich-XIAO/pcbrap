@@ -7,4 +7,11 @@ For etching, it will use a chemical etchant bath of dilute acetic acid and perox
 
 To transfer the pattern, paper masks will be combined with photoresist.
 
-The photoresist film must be applied under a pool of water to prevent trapped air bubbles and must be heated to evaporate trapped water.
+Photoresist and soldermask are wet film and will be spin coated.
+
+## BOM
+- https://www.aliexpress.com/item/1005006866754173.html UV curing soldermask
+- https://www.aliexpress.com/item/1005001348763402.html Wet film photoresist
+- https://www.aliexpress.com/item/1005007663669920.html Two 60mL syringes for soldermask and photoresist
+- https://www.aliexpress.com/item/32954555218.html 7x10cm copper clad boards
+- 
