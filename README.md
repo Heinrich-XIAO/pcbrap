@@ -24,7 +24,7 @@ Excalidraw of plan: https://excalidraw.com/#json=1QwyNEmy-eDel-JE6052r,Q4dIC_HZa
 - https://www.aliexpress.com/item/1005008618305989.html Lead screw for extruding through syringes (150mm) $5.20 x 3
 - https://www.aliexpress.com/item/1005005796736127.html Motor for lead screw and an extra for transfering paper mask $3.91 x 4
 - https://www.aliexpress.com/item/32999393179.html Crappy coupler for lead screw and crappy stepper motor $5.41 x 3
-- https://www.aliexpress.com/item/1005007661785167.html Peristaltic motor for pumping chemical baths (will need two) (have not decided which model. will wait for response from vendor) $5.61
+- https://www.aliexpress.com/item/1005007661785167.html Peristaltic motor for pumping chemical baths (have not decided which model. will wait for response from vendor) $5.61 x 2
 - https://www.aliexpress.com/item/1005007204885790.html 5V UV LED strip $6.69
 - https://www.aliexpress.com/item/1005008889412558.html MOSFET for driving LED (FQP30N06L) $5.19
 - https://www.aliexpress.com/item/1005006396628642.html RP2040 based dev board (RP2040 TYPE-C 16MB) $6.19
