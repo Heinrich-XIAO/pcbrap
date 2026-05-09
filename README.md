@@ -33,6 +33,6 @@ Excalidraw of plan: https://excalidraw.com/#json=1QwyNEmy-eDel-JE6052r,Q4dIC_HZa
 
 Running Total: $125.86
 
-Estimated Final Total: $150-250 USD
+Estimated Final Total: $175-250 USD
 
 THIS BOM IS WIP
