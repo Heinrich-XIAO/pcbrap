@@ -30,8 +30,10 @@ Excalidraw of plan: https://excalidraw.com/#json=1QwyNEmy-eDel-JE6052r,Q4dIC_HZa
 - https://www.aliexpress.com/item/1005006396628642.html RP2040 based dev board (RP2040 TYPE-C 16MB) $6.19
 - https://www.aliexpress.com/item/1005006918571481.html Nickel-plated electrodes $2.96
 - https://www.aliexpress.com/item/1005007862086100.html Carbon Fiber Electrodes $3.89
+- https://www.aliexpress.com/item/1005004651036980.html Plastic container to serve as vat in which PCB will be situated (14x7.7cm) $3.69
+- 
 
-Running Total: $125.86
+Running Total: $129.55
 
 Estimated Final Total: $175-250 USD
 
