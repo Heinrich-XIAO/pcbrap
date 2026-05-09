@@ -28,8 +28,10 @@ Excalidraw of plan: https://excalidraw.com/#json=1QwyNEmy-eDel-JE6052r,Q4dIC_HZa
 - https://www.aliexpress.com/item/1005007204885790.html 5V UV LED strip $6.69
 - https://www.aliexpress.com/item/1005008889412558.html MOSFET for driving LED (FQP30N06L) $5.19
 - https://www.aliexpress.com/item/1005006396628642.html RP2040 based dev board (RP2040 TYPE-C 16MB) $6.19
+- https://www.aliexpress.com/item/1005006918571481.html Nickel-plated electrodes $2.96
+- https://www.aliexpress.com/item/1005007862086100.html Carbon Fiber Electrodes $3.89
 
-Running Total: $100.58
+Running Total: $107.43
 Estimated Final Total: $150-250 USD
 
 
