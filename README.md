@@ -21,3 +21,4 @@ Photoresist and soldermask are wet film and will be spin coated.
 - https://www.aliexpress.com/item/1005007661785167.html Peristaltic motor for pumping chemical baths (will need two) (have not decided which model. will wait for response from vendor)
 - https://www.aliexpress.com/item/1005007204885790.html 5V UV LED strip
 - https://www.aliexpress.com/item/1005008889412558.html MOSFET for driving LED (FQP30N06L)
+- https://www.aliexpress.com/item/1005006396628642.html RP2040 based dev board (RP2040 TYPE-C 16MB)
