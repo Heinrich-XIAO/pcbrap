@@ -31,9 +31,9 @@ Excalidraw of plan: https://excalidraw.com/#json=1QwyNEmy-eDel-JE6052r,Q4dIC_HZa
 - https://www.aliexpress.com/item/1005006918571481.html Nickel-plated electrodes $2.96
 - https://www.aliexpress.com/item/1005007862086100.html Carbon Fiber Electrodes $3.89
 - https://www.aliexpress.com/item/1005004651036980.html Plastic container to serve as vat in which PCB will be situated (14x7.7cm) $3.69
-- 
+- https://www.aliexpress.com/item/1005005948902909.html Plastic Ketchup Botte for storing etchant and developer (240mL white) $3.72 x 2
 
-Running Total: $129.55
+Running Total: $136.99
 
 Estimated Final Total: $175-250 USD
 
