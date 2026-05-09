@@ -30,5 +30,7 @@ Excalidraw of plan: https://excalidraw.com/#json=1QwyNEmy-eDel-JE6052r,Q4dIC_HZa
 - https://www.aliexpress.com/item/1005006396628642.html RP2040 based dev board (RP2040 TYPE-C 16MB) $6.19
 
 Running Total: $100.58
+Estimated Final Total: $150-250 USD
 
-THIS IS WIP. THIS IS ABOUT HALF OF THE ITEMS THAT I WILL NEED, SO THE UPPER BOUND FOR THE COST IS $200 USD.
+
+THIS BOM IS WIP
