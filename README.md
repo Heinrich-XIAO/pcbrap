@@ -21,8 +21,8 @@ Excalidraw of plan: https://excalidraw.com/#json=1QwyNEmy-eDel-JE6052r,Q4dIC_HZa
 - https://www.aliexpress.com/item/1005007663669920.html Two 60mL syringes for soldermask and photoresist $5.39
 - https://www.aliexpress.com/item/32954555218.html 7x10cm copper clad boards $6.51
 - https://www.aliexpress.com/item/1005009019052350.html Motor for spin coating $5.09
-- https://www.aliexpress.com/item/1005008618305989.html Lead screw for depositing soldermask and photoresist through syringe (150mm) $5.20 x 3
-- https://www.aliexpress.com/item/1005005796736127.html Crappy motor for lead screw and an extra for transfering paper mask $3.91 x 4
+- https://www.aliexpress.com/item/1005008618305989.html Lead screw for extruding through syringes (150mm) $5.20 x 3
+- https://www.aliexpress.com/item/1005005796736127.html Motor for lead screw and an extra for transfering paper mask $3.91 x 4
 - https://www.aliexpress.com/item/32999393179.html Crappy coupler for lead screw and crappy stepper motor $5.41 x 3
 - https://www.aliexpress.com/item/1005007661785167.html Peristaltic motor for pumping chemical baths (will need two) (have not decided which model. will wait for response from vendor) $5.61
 - https://www.aliexpress.com/item/1005007204885790.html 5V UV LED strip $6.69
@@ -30,8 +30,8 @@ Excalidraw of plan: https://excalidraw.com/#json=1QwyNEmy-eDel-JE6052r,Q4dIC_HZa
 - https://www.aliexpress.com/item/1005006396628642.html RP2040 based dev board (RP2040 TYPE-C 16MB) $6.19
 - https://www.aliexpress.com/item/1005006918571481.html Nickel-plated electrodes $2.96
 - https://www.aliexpress.com/item/1005007862086100.html Carbon Fiber Electrodes $3.89
-- https://www.aliexpress.com/item/1005004651036980.html Plastic container to serve as vat in which PCB will be situated (14x7.7cm) $3.69
-- https://www.aliexpress.com/item/1005005948902909.html Plastic Ketchup Botte for storing etchant and developer (240mL white) $3.72 x 2
+- https://www.aliexpress.com/item/1005004651036980.html Plastic Container for PCB and chemicals (14x7.7cm) $3.69
+- https://www.aliexpress.com/item/1005005948902909.html Plastic Botte for storing etchant and developer (240mL white) $3.72 x 2
 
 Running Total: $136.99
 
