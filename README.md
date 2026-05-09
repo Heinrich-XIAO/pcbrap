@@ -13,7 +13,7 @@ The two types of wet film are added with a pair of syringes and a pair of lead s
 
 A peristaltic pump is used to transfer liquid between tanks.
 
-<img width="1658" height="748" alt="Screenshot 2026-05-09 at 16 33 28" src="https://github.com/user-attachments/assets/5153d04a-e8a2-470e-adef-d22e00e27836" />
+<img width="1620" height="719" alt="Screenshot 2026-05-09 at 17 58 18" src="https://github.com/user-attachments/assets/036bf2de-6ea9-4a02-87c4-d079758e04bc" />
 
 
 ## BOM
