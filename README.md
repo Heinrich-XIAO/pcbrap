@@ -22,3 +22,7 @@ Photoresist and soldermask are wet film and will be spin coated.
 - https://www.aliexpress.com/item/1005007204885790.html 5V UV LED strip $6.69
 - https://www.aliexpress.com/item/1005008889412558.html MOSFET for driving LED (FQP30N06L) $5.19
 - https://www.aliexpress.com/item/1005006396628642.html RP2040 based dev board (RP2040 TYPE-C 16MB) $6.19
+
+Running Total: $86.06
+
+THIS IS WIP. THIS IS ABOUT HALF OF THE ITEMS THAT I WILL NEED, SO THE UPPER BOUND FOR THE COST IS $200 USD.
