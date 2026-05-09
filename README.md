@@ -18,3 +18,4 @@ Photoresist and soldermask are wet film and will be spin coated.
 - https://www.aliexpress.com/item/1005008618305989.html Lead screw for depositing soldermask and photoresist through syringe
 - https://www.aliexpress.com/item/1005005796736127.html Crappy motor for lead screw
 - https://www.aliexpress.com/item/32999393179.html Crappy coupler for lead screw and crappy stepper motor
+- https://www.aliexpress.com/item/1005007661785167.html Peristaltic motor for pumping chemical baths (will need two) (have not decided which model. will wait for response from vendor)
