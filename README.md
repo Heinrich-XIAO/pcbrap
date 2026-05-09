@@ -11,6 +11,10 @@ Photoresist and soldermask are wet film and will be spin coated.
 
 The two types of wet film are added with a pair of syringes and a pair of lead screws.
 
+A peristaltic pump is used to transfer liquid between tanks.
+
+Excalidraw of plan: https://excalidraw.com/#json=1QwyNEmy-eDel-JE6052r,Q4dIC_HZaZ5Er5s0bw8Bjg
+
 ## BOM
 - https://www.aliexpress.com/item/1005006866754173.html UV curing soldermask $14.68
 - https://www.aliexpress.com/item/1005001348763402.html Wet film photoresist $10.58
