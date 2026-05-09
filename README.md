@@ -35,7 +35,11 @@ A peristaltic pump is used to transfer liquid between tanks.
 - https://www.aliexpress.com/item/1005005948902909.html Plastic Bottle for storing etchant and developer (240mL white) $3.72 x 2
 - https://www.aliexpress.com/item/1005009546425385.html L293D DIP-16 for motors $4.25
 
-Running Total: $141.24
+For Vias:
+- https://www.aliexpress.com/item/1005006608203341.html 0.5mm bare copper wire (not enameled) $5.89
+- 
+
+Running Total: $147.15
 
 Estimated Final Total: $175-250 USD
 
