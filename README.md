@@ -41,8 +41,4 @@ A peristaltic pump is used to transfer liquid between tanks.
 For Vias:
 - [0.5mm bare copper wire (not enameled)](https://www.aliexpress.com/item/1005006608203341.html) $5.89
 
-Running Total: $152.04
-
-Estimated Final Total: $175-250 USD
-
-THIS BOM IS WIP
+Final Total: $152.04 USD
